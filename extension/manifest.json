@@ -1,0 +1,17 @@
+{
+  "name": "ToDo Extension",
+  "description": "Quickly add list of items to your to do list",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Simple Todo List",
+    "default_icon": "next-assets/logo.png",
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "next-assets/logo.png",
+    "32": "next-assets/logo.png",
+    "48": "next-assets/logo.png",
+    "128": "next-assets/logo.png"
+  }
+}
